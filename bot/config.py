@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5834516757:AAE5Ll71HDwAhC3CKci4VXBpULGRnuQQM-k"
+    APP_ID = "27341519"
+    API_HASH = "9a1141716e02c3393629fd977aff12ae"
+    DATABASE_URL = "postgres://alefzrlwyqeaqm:8c21cae1ee78a9dd899667f3a6055d73e42e8e4e0140599713dd12c7ab591f4c@ec2-54-80-122-11.compute-1.amazonaws.com:5432/d2urv72r9ph8nq"
+    SUDO_USERS = "5542905394" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "324302430612-v199jmg9citu35evie1375jmsm3q293h.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/portalacervo"
 
 
 class BotCommands:
